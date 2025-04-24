@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "sports-buddy-afa6c"
+  },
+  "targets": {},
+  "etags": {
+    "sports-buddy-afa6c": {
+      "extensionInstances": {}
+    }
+  }
+}
