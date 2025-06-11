@@ -27,7 +27,7 @@ A real-time sports matching and event management web app using Firebase.
 
 1. **Clone the repo**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Nandinikasu/sports-buddy>
    cd sports-buddy
    ```
 
